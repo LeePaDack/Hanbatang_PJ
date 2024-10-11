@@ -4,7 +4,7 @@
 ![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
 
 <!--프로젝트 대문 이미지-->
-![Project Title](./img/spring_boot_thymeleaf_title.png)
+<!-- ![Project Title](./img/spring_boot_thymeleaf_title.png) -->
 
 <!--프로젝트 버튼-->
  [![Readme in English][readme-eng-shield]][readme-eng-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
@@ -84,7 +84,7 @@
 **기타:**
 - [Git]
 
-
+<!--
 # [2] Getting Started
 *만약 운영체제에 따라 프로그램을 다르게 동작시켜야한다면, 운영체제별로 동작 방법을 설명하세요*
 
